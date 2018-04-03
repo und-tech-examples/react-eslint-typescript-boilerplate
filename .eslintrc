@@ -1,0 +1,14 @@
+{
+  "parser": "typescript-eslint-parser",
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "plugins": [
+      "typescript",
+      "react"
+  ],
+  "extends": "eslint-config-und"
+}

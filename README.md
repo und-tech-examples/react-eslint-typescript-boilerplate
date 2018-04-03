@@ -1,0 +1,5 @@
+- [x] eslint
+- [x] eslint-plugin-typescript
+- [x] eslint-plugin-react
+- [x] webpack
+- [x] ts-loader
